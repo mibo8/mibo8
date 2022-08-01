@@ -12,9 +12,11 @@ My interests are:
 * 🏋️ Sports
 
 🧑‍💻 I’m currently looking for NLP related positions
+
 👯 I’m looking to collaborate on open source NLP projects
 
 
+📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/michele-bortone-6a689a139/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
