@@ -13,7 +13,7 @@ My interests are:
 
 🧑‍💻 I’m currently looking for NLP related positions
 
-👯 I’m looking to collaborate on open source NLP projects
+👯 I’m looking to collaborate on open source NLP/ML projects
 
 
 📫 How to reach me:
