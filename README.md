@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Michele
 
 I'm an MSc graduate in Computer Science at the University of Padua. My field of study is machine learning and data science, and my main interest is in Natural language processing (NLP).
-Currently I'm based in Venice, Italy.
+Currently I'm working in Crayon (Vienna) as data science intern in Language Technologies team.
 
 My interests are:
 
@@ -10,10 +10,6 @@ My interests are:
 * 🔭 Science
 * 🎮 Videogames
 * 🏋️ Sports
-
-🧑‍💻 I’m currently looking for NLP related positions
-
-👯 I’m looking to collaborate on open source NLP/ML projects
 
 
 📫 How to reach me:
